@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amir Vahidy
 - 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning HTML, CSS, JAVAScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript.
 - 💞️ I’m looking to collaborate on projects in the future, just getting started.
 - 📫 How to reach me abvahidy@outlook.com
 
